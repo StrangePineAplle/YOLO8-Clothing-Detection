@@ -39,3 +39,9 @@ The model recognizes the following classes of clothing and accessories:
 11. Shorts
 12. Skirt
 13. Top
+
+## Results
+
+<p align="left">
+  <img src="https://github.com/StrangePineAplle/YOLO8-Clothing-Detection/blob/main/pictures/pic3.jpg" width="200" />
+</p>
